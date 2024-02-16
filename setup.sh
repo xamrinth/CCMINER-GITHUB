@@ -19,7 +19,7 @@ chmod +x down-grade
 chmod +x ANSI_Shadow.flf
 chmod +x backup
 chmod +x restore
-chmod +x install
+chmod +x install.txt
 
 apt-get install python3 -y
 apt-get install pip -y
